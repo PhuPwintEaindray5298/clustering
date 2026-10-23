@@ -1,0 +1,3 @@
+cluster,mean_activity,daily_cv,pct_inactive,night_share,day_fragmentation,IS,IV,RA,M10,L5,age,n,pct_depressed,pct_female
+1,2.249,0.317,0.518,0.139,0.171,0.274,1.063,0.699,5.094,3.194,44.5,8,75.0,0.0
+2,3.46,0.228,0.318,0.052,0.053,0.464,0.822,0.861,5.98,3.269,39.66,47,36.2,0.0
